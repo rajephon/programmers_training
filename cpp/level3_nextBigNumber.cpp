@@ -1,3 +1,11 @@
+//
+//  level3_nextBigNumber.cpp
+//  programmers_training
+//
+//  Created by Chanwoo Noh on 2017. 10. 22..
+//  Copyright © 2017년 Chanwoo Noh. All rights reserved.
+//
+
 #include <iostream>
 #include <bitset>
 using namespace std;
