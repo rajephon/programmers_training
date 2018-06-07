@@ -5,6 +5,7 @@
 
 | 문제 | 코드 | 풀이 |
 | ------------- |:-------------:| -----:|
+| [가장 긴 팰린드롬](https://programmers.co.kr/learn/courses/30/lessons/12904) | [cpp](cpp/level1_find_longest_palindromic_substring.cpp) | |
 | [행렬의 덧셈](https://programmers.co.kr/learn/challenge_codes/148) | [cpp](cpp/level1_matrix_sum.cpp) | |
 | [피보나치 수](https://programmers.co.kr/learn/challenge_codes/147) | [cpp](cpp/level1_fibonacci.cpp) | |
 | [약수의 합](https://programmers.co.kr/learn/challenge_codes/146) | [cpp](cpp/level1_sumDivisor.cpp) | |
