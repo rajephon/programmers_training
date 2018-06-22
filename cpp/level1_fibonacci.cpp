@@ -6,24 +6,16 @@
 //  Copyright © 2017년 Chanwoo Noh. All rights reserved.
 //
 
-#include <iostream>
 #include <vector>
 using namespace std;
 
-long long fibonacci(int n) {
-    std::vector<long long> f;
+int solution(int n) {
+    std::vector<unsigned long long> f;
     f.resize(n+1);
-    f.at(0) = ((long long)0);
-    f.at(1) = ((long long)1);
+    f.at(0) = 0;
+    f.at(1) = 1;
     for (int i = 2; i <= n; i++) {
-        f.at(i) = f.at(i-1) + f.at(i-2);
+        f.at(i) = (f.at(i-1) + f.at(i-2)) % 1234567;
     }
     return f.at(n);
-}
-
-int main() {
-    int testCase = 10;
-    long long testAnswer = fibonacci(testCase);
-    
-    cout<<testAnswer;
 }
