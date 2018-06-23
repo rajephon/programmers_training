@@ -1,12 +1,13 @@
 //
-//  level3_nextBigNumber.cpp
+//  level2_next_big_number.cpp
 //  programmers_training
 //
 //  Created by Chanwoo Noh on 2017. 10. 22..
 //  Copyright © 2017년 Chanwoo Noh. All rights reserved.
 //
 
-#include <iostream>
+#include <string>
+#include <vector>
 #include <bitset>
 using namespace std;
 
@@ -20,7 +21,7 @@ int getBinCount(int n) {
     return i;
 }
 
-int nextBigNumber(int n) {
+int solution(int n) {
     int answer= 0;
     int count_num = getBinCount(n);
     answer = n+1;
@@ -29,11 +30,3 @@ int nextBigNumber(int n) {
     }
     return answer;
 }
-
-int main() {
-    int n=78;
-    
-    //아래는 테스트 출력을 위한 코드입니다.
-    cout<<nextBigNumber(n);
-}
-
