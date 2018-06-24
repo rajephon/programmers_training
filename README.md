@@ -51,11 +51,16 @@
 | [최고의 집합](https://programmers.co.kr/learn/courses/30/lessons/12938) | [cpp](cpp/level2_best_set.cpp) | |
 | [N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953) | [cpp](cpp/level2_nlcm.cpp) | |
 
+## Level3
+| 문제 | 코드 | 풀이 |
+| ------------- |:-------------:| -----:|
+| [가장 긴 팰린드롬](https://programmers.co.kr/learn/courses/30/lessons/12904) | [cpp](cpp/level3_longest_palindrome.cpp) | |
+| [124나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899) | [cpp](cpp/level3_124.cpp) | |
+
 # 개편 전 문제풀이
 ## Level1
 | 문제 | 코드 | 풀이 |
 | ------------- |:-------------:| -----:|
-| [가장 긴 팰린드롬](https://programmers.co.kr/learn/courses/30/lessons/12904) | [cpp](cpp/level1_find_longest_palindromic_substring.cpp) | |
 | [최대공약수와 최소공배수](https://programmers.co.kr/learn/challenge_codes/149) | [cpp](cpp/level1_gcdlcm.cpp) | |
 
 

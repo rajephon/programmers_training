@@ -1,15 +1,14 @@
 //
-//  level1_find_longest_palindromic_substring.cpp
+//  level3_longest_palindrome.cpp
 //  programmers_training
 //
-//  Created by Chanwoo Noh on 2018. 06. 07..
+//  Created by Chanwoo Noh on 2018. 06. 24..
 //  Copyright © 2018년 Chanwoo Noh. All rights reserved.
 //
 
 #include <iostream>
 #include <string>
 using namespace std;
-
 int solution(string s) {
     int answer=1;
     if (s.length() <= 1) {
@@ -41,19 +40,4 @@ int solution(string s) {
     }
 
     return answer;
-}
-
-void sol(const std::string &q, int e) {
-    std::cout << "결과: " << solution(q) << ", 기대값 : " << e << std::endl;
-}
-
-int main(int argc, const char * argv[]) {
-    sol("dccaccd", 7);
-    sol("HYTBCABADEFGHABCDEDCBAGHTFYW1234567887654321ZWETYGDE", 16);
-    sol("abcdcba", 7);
-    sol("abacde", 3);
-    sol("cbbd", 2);
-    sol("babad", 3);
-    sol("1234", 1);
-    return 0;
 }
