@@ -4,10 +4,10 @@
 ## Level1
 | 문제 | 코드 | 풀이 |
 | ------------- |:-------------:| -----:|
-| [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901) | [cpp](cpp/level1_2016.cpp) | |
-| [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903) | [cpp](cpp/level1_middle_character.cpp) | |
-| [같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906) | [cpp](cpp/level1_unique_number.cpp) | |
-| [나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910) | [cpp](cpp/level1_divisible.cpp) | |
+| [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901) | [cpp](cpp/level1_2016.cpp), [python3](python3/level1_2016.py) | |
+| [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903) | [cpp](cpp/level1_middle_character.cpp), [python3](python3/level1_middle_character.py) | |
+| [같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906) | [cpp](cpp/level1_unique_number.cpp), [python3](python3/level1_unique_number.py) | |
+| [나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910) | [cpp](cpp/level1_divisible.cpp), [python3](python3/level1_divisible.py) | |
 | [두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912) | [cpp](cpp/level1_sum.cpp) | |
 | [내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915) | [cpp](cpp/level1_custom_sort.cpp) | |
 | [문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916) | [cpp](cpp/level1_p_and_y_count.cpp) | |
