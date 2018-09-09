@@ -8,9 +8,9 @@
 | [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903) | [cpp](cpp/level1_middle_character.cpp), [python3](python3/level1_middle_character.py) | |
 | [같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906) | [cpp](cpp/level1_unique_number.cpp), [python3](python3/level1_unique_number.py) | |
 | [나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910) | [cpp](cpp/level1_divisible.cpp), [python3](python3/level1_divisible.py) | |
-| [두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912) | [cpp](cpp/level1_sum.cpp) | |
-| [내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915) | [cpp](cpp/level1_custom_sort.cpp) | |
-| [문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916) | [cpp](cpp/level1_p_and_y_count.cpp) | |
+| [두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912) | [cpp](cpp/level1_sum.cpp), [python3](python3/level1_sum.py) | |
+| [내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915) | [cpp](cpp/level1_custom_sort.cpp), [python3](python3/level1_custom_sort.py) | |
+| [문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916) | [cpp](cpp/level1_p_and_y_count.cpp), [python3](python3/level1_p_and_y_count.py) | |
 | [문자열 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12917) | [cpp](cpp/level1_character_desc.cpp) | |
 | [문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918) | [cpp](cpp/level1_string_control.cpp) | |
 | [서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919) | [cpp](cpp/level1_find_kim.cpp) | |
