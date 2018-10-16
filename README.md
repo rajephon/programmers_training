@@ -54,9 +54,10 @@
 | 문제 | 코드 | 풀이 |
 | ------------- |:-------------:| -----:|
 | [가장 긴 팰린드롬](https://programmers.co.kr/learn/courses/30/lessons/12904) | [cpp](cpp/level3_longest_palindrome.cpp) | |
-| [멀리 뛰기](https://programmers.co.kr/learn/courses/30/lessons/12914) | [cpp](cpp/level2_jump_case.cpp) | |
-| [야근 지수](https://programmers.co.kr/learn/courses/30/lessons/12927) | [cpp](cpp/level2_no_overtime.cpp) | |
-| [최고의 집합](https://programmers.co.kr/learn/courses/30/lessons/12938) | [cpp](cpp/level2_best_set.cpp) | |
+| [멀리 뛰기](https://programmers.co.kr/learn/courses/30/lessons/12914) | [cpp](cpp/level3_jump_case.cpp) | |
+| [야근 지수](https://programmers.co.kr/learn/courses/30/lessons/12927) | [cpp](cpp/level3_no_overtime.cpp), [cpp](python/level3_no_overtime.py)  | [풀이](https://rajephon.github.io/blog/2018/10/14/programmers-solution-level3-no-overtime/) |
+| [최고의 집합](https://programmers.co.kr/learn/courses/30/lessons/12938) | [cpp](cpp/level3_best_set.cpp) | |
+| [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579) | [python](cpp/level3_best_album.py) | [풀이](https://rajephon.github.io/blog/2018/10/14/programmers-solution-hash-best-album/) |
 
 # 개편 전 문제풀이
 ## Level1
