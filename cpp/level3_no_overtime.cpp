@@ -1,5 +1,5 @@
 //
-//  level2_no_overtime.cpp
+//  level3_no_overtime.cpp
 //  programmers_training
 //
 //  Created by Chanwoo Noh on 2017. 10. 22..
