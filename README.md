@@ -57,7 +57,7 @@
 | [멀리 뛰기](https://programmers.co.kr/learn/courses/30/lessons/12914) | [cpp](cpp/level3_jump_case.cpp) | |
 | [야근 지수](https://programmers.co.kr/learn/courses/30/lessons/12927) | [cpp](cpp/level3_no_overtime.cpp), [python3](python3/level3_no_overtime.py)  | [풀이](https://rajephon.github.io/blog/2018/10/14/programmers-solution-level3-no-overtime/) |
 | [최고의 집합](https://programmers.co.kr/learn/courses/30/lessons/12938) | [cpp](cpp/level3_best_set.cpp) | |
-| [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579) | [python3](cpp/level3_best_album.cpp), [python3](python3/level3_best_album.py) | [풀이](https://rajephon.github.io/blog/2018/10/14/programmers-solution-hash-best-album/) |
+| [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579) | [cpp](cpp/level3_best_album.cpp), [python3](python3/level3_best_album.py) | [풀이](https://rajephon.github.io/blog/2018/10/14/programmers-solution-hash-best-album/) |
 | [정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105) | [cpp](cpp/level3_integer_triangle.cpp) |  |
 
 # 개편 전 문제풀이
